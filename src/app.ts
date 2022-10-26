@@ -1,3 +1,12 @@
+/*
+* File: app.ts
+* Author: Sánta Renáta Diána
+* Copyright: 2022, Sánta Renáta Diána
+* Group: Szoft II N
+* Date: 2021-10-26
+* Github: https://github.com/SantaRenata/
+* Licenc: GNU GPL
+*/
 const szamolGomb = document.querySelector("#szamolGomb");
 const eredmeny = document.querySelector("#eredmeny");
 const aoldal = document.querySelector("#aoldal") as HTMLInputElement;
