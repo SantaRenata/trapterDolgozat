@@ -3,7 +3,7 @@
 * Author: Sánta Renáta Diána
 * Copyright: 2022, Sánta Renáta Diána
 * Group: Szoft II N
-* Date: 2021-10-26
+* Date: 2022-10-26
 * Github: https://github.com/SantaRenata/
 * Licenc: GNU GPL
 */
